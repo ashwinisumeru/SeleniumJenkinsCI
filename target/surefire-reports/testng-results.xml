@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-22T13:54:25 IST" name="com.ohrm.testcases.TestCase01" finished-at="2022-01-22T13:54:43 IST" duration-ms="17639">
+    <groups>
+    </groups>
+    <test started-at="2022-01-22T13:54:25 IST" name="Command line test" finished-at="2022-01-22T13:54:43 IST" duration-ms="17639">
+      <class name="com.ohrm.testcases.TestCase01">
+        <test-method signature="testcase01()[pri:0, instance:com.ohrm.testcases.TestCase01@3e694b3f]" started-at="2022-01-22T13:54:25 IST" name="testcase01" finished-at="2022-01-22T13:54:43 IST" duration-ms="17596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase01 -->
+      </class> <!-- com.ohrm.testcases.TestCase01 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.ohrm.testcases.TestCase01 -->
+</testng-results>
